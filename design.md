@@ -22,6 +22,8 @@ mocha 不好的地方
 - substack 的 [tape](https://github.com/substack/tape)
 - tj 推荐的 [ava](https://github.com/sindresorhus/ava)
 
+参考 mocha, tape, tap, ava, t-man
+
 都使用了类似的模式
 
 由于是 min-test，因此不用 `test.before` `test.after` 等高端用法，import 出来直接就是 test function
